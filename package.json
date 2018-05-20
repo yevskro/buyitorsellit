@@ -1,0 +1,17 @@
+{
+    "name": "node-server",
+    "version": "0.0.1",
+    "dependencies": {
+        "connect": "^3.6.5",
+        "express": "^4.16.2",
+        "mongoose": "^5.0.0-rc0",
+        "serve-static": "^1.13.1"
+    },
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "engines": {
+        "node": "8.9.3"
+    }
+}
